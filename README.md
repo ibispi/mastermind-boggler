@@ -1,6 +1,7 @@
 # mastermind-boggler
 Customizeable Mastermind Game
 
+![Alt text](/screenshot.png?raw=true "Optional Title")
 
 ## Requires:
 
