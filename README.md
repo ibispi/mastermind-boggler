@@ -22,6 +22,8 @@ change directory to the directory of this game and then type: python game.py
 
 space or enter to guess a row
 
+backspace to undo a peg
+
 escape to quit
 
 
