@@ -88,6 +88,7 @@ class Game:
         print("Controls:")
         print("1-8 keys to place pegs")
         print("space or enter to guess a row")
+        print("backspace to undo a peg")
         print("escape to quit")
         print()
         print("Options:")
