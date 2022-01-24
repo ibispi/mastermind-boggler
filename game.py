@@ -83,7 +83,7 @@ class Game:
 
     def print_help():
         print()
-        print("Usage: mastermind-boggler [OPTION]")
+        print("Usage: python game.py [OPTION]")
         print()
         print("Controls:")
         print("1-8 keys to place pegs")
@@ -99,8 +99,8 @@ class Game:
         print("-on [VALUE] or --option-number [VALUE] for setting the number of different pegs (default: 4, max 8)")
         print()
         print("Examples:")
-        print("mastermind-boggler")
-        print("mastermind-boggler -ww 1920 -wh 1080 -gs 8 -an 20 -on 8") 
+        print("python game.py")
+        print("python game.py -ww 1920 -wh 1080 -gs 8 -an 20 -on 8") 
         
     def start():
 
