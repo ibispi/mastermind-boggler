@@ -1,5 +1,4 @@
 import sys
-import game
 
 class Config:
     screen_size = 800, 800
@@ -30,6 +29,3 @@ class Color:
     black = (0,0,0)
     grey = (100,100,100)
     foreground = (50, 50, 75)
-
-if __name__ == "__main__":
-    game.Game.start()
